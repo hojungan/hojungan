@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hojungan
 - 👀 I’m interested in Full Stack Web Dev and Web Accessibility
-- 🌱 I’m currently learning [Django, React]
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hojungan/)
 
 <!---
