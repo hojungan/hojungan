@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hojungan
+- 👋 Hi, I’m @hojungan (WAS)
 - 👀 I’m interested in Full Stack Web Dev and Web Accessibility
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hojungan/)
 
